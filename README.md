@@ -32,7 +32,7 @@ A Mealy finite state machine continuously transitions between autonomous and use
 ## Requirements 📋
 
 ### Libraries 📚 :
-- serial
+- pyserial
 - time
 - struct
 - pygame
